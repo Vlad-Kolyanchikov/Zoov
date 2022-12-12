@@ -5,3 +5,4 @@
 Выполнил аддаптив сайта. 
 Проверка на валидность HTML на сайте https://validator.w3.org/ прошла успешно, без каких-либо ошибок.
 Залил на хостинг.
+![Screenshot_1](https://user-images.githubusercontent.com/119508598/207016137-c1349d4e-0a7b-4f6a-b32f-374cf411d989.png)
