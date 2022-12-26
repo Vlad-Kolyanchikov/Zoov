@@ -6,7 +6,5 @@
 Проверка на валидность HTML на сайте https://validator.w3.org/ прошла успешно, без каких-либо ошибок. <br/>
 Залил на хостинг.<br/>
 <br/>
-<a href="https://zoo-ov.netlify.app">
-![Screenshot_16](https://user-images.githubusercontent.com/119508598/207016244-4cbdf29b-94a2-4190-b533-ecbaa4619564.png)
-</a>
+<a href="https://zoo-ov.netlify.app">![Screenshot_16](https://user-images.githubusercontent.com/119508598/207016244-4cbdf29b-94a2-4190-b533-ecbaa4619564.png)</a>
 https://zoo-ov.netlify.app
